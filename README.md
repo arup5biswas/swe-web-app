@@ -54,4 +54,4 @@ cd Frontend
 npm i 
 npm start
 ```
-Link to the repo: https://github.com/Aeromaster213/swe-web-app
+Link to the repo: https://github.com/arup5biswas/swe-web-app
